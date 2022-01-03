@@ -19,7 +19,7 @@ namespace Ternary_operator
             Console.WriteLine(b);
             Console.ReadLine();
 
-
+            //Ternary Operator is a alternative of if-else it is commonly used when thier is no need to write multiple lines to make a decision
         }
     }
 }
