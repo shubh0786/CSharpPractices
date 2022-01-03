@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constant Variable", "Consta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateAndTime", "DateAndTime\DateAndTime.csproj", "{DB70F939-E8D3-4842-915F-A06C6EE0011D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPerator", "OPerator\OPerator.csproj", "{49F705D5-7AA3-40D2-92BE-163E4E32C687}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DB70F939-E8D3-4842-915F-A06C6EE0011D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB70F939-E8D3-4842-915F-A06C6EE0011D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB70F939-E8D3-4842-915F-A06C6EE0011D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49F705D5-7AA3-40D2-92BE-163E4E32C687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F705D5-7AA3-40D2-92BE-163E4E32C687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F705D5-7AA3-40D2-92BE-163E4E32C687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F705D5-7AA3-40D2-92BE-163E4E32C687}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
