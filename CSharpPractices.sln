@@ -9,7 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constant Variable", "Consta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateAndTime", "DateAndTime\DateAndTime.csproj", "{DB70F939-E8D3-4842-915F-A06C6EE0011D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPerator", "OPerator\OPerator.csproj", "{49F705D5-7AA3-40D2-92BE-163E4E32C687}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator", "OPerator\Operator.csproj", "{49F705D5-7AA3-40D2-92BE-163E4E32C687}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ternary operator", "Ternary operator\Ternary operator.csproj", "{90267261-71D8-48DC-9000-3B99C86FB8B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{49F705D5-7AA3-40D2-92BE-163E4E32C687}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49F705D5-7AA3-40D2-92BE-163E4E32C687}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49F705D5-7AA3-40D2-92BE-163E4E32C687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90267261-71D8-48DC-9000-3B99C86FB8B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90267261-71D8-48DC-9000-3B99C86FB8B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90267261-71D8-48DC-9000-3B99C86FB8B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90267261-71D8-48DC-9000-3B99C86FB8B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
